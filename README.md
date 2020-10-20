@@ -38,7 +38,7 @@ public class FeedingSession
 
 ... into a nice Blazor form:
 
-![A nice form!](Docs\sample_form.png)
+![A nice form!](Docs/sample_form.png)
 
 ### Setup
 
